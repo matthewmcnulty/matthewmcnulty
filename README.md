@@ -1,4 +1,3 @@
-[![MasterHead](https://mag.uchicago.edu/sites/default/files/22Winter_Golus_Lies-damned-lies-and-data.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Matthew McNulty</h1>
 <h3 align="center">Co-Founder & Data Scientist @ Cropway / Exascale AI</h3>
 
