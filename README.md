@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew McNulty</h1>
-<h3 align="center">Co-Founder & Data Scientist @ Cropway / Exascale AI</h3>
+<h3 align="center">Data Engineer @ Endeavor Analytics | Co-Founder & Data Scientist @ Cropway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewmcnulty&label=Profile%20views&color=0e75b6&style=flat" alt="matthewmcnulty" /> </p>
 
