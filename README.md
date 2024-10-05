@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/729px-Python_logo_and_wordmark.svg.png" alt="python" height="40"/> </a>
+<a href="https://www.python.org/" onclick="window.open(this.href); return false;" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/729px-Python_logo_and_wordmark.svg.png" alt="python" height="40"/> </a>
 <a href="https://www.snowflake.com/en/uk/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/276px-Snowflake_Logo.svg.png?20210330073721" alt="snowflake" height="40"/> </a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Data_build_tool_%28dbt%29_logo.svg/1200px-Data_build_tool_%28dbt%29_logo.svg.png" alt="dbt" height="40"/> </a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" alt="airflow" height="40"/> </a>
