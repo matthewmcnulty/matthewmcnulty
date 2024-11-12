@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewmcnulty&label=Profile%20views&color=0e75b6&style=flat" alt="matthewmcnulty" /> </p>
 
-🧠 What sets me apart is my ability to learn hard technical tools quickly, enabling me to stay ahead of the curve and tackle new challenges with ease.
+🌟 Versatile Data Professional | Bridging the gap between technical solutions and actionable business insights
 
-🔎 With experience in startup and corporate environments, I have honed my problem-solving skills and ability to collaborate effectively with cross-functional teams. 
+🧠 What sets me apart is my ability to quickly learn and apply complex technical tools to stay ahead of the curve and tackle new challenges effectively.
 
-🌎 I am passionate about leveraging data to address humanity's most pressing challenges and have a proven track record of delivering innovative solutions and data-driven insights.
+🔎 With experience in both startup and corporate environments, I excel at collaborating with cross-functional teams to solve problems and drive results.
+
+🌍 I’m passionate about leveraging data to solve real-world challenges and deliver data-driven insights that help organizations make informed decisions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
